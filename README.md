@@ -1,5 +1,4 @@
 # Indian Counterfeit Banknote Detection using SVM
-This is an SVM implementation of the project
 
 ## Objective 
 Currency counterfeiting is a serious crime that affects a country's finances. India is facing more serious problems due to the increase in fake notes in the market. To get rid of this problem, various fake note detection methods are available worldwide, but most of them are hardware based and costly. The proposed system can identify the legitimacy of a banknote by checking for specific security features such as watermarks, latent images, security threads, etc. Identification of counterfeit banknotes is done using machine learning techniques.
