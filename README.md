@@ -5,4 +5,3 @@ Currency counterfeiting is a serious crime that affects a country's finances. In
 
 ### Statistics of Detected Counterfeit Banknotes
 <img src = 'Images/Plot1.PNG' align='centre'>
-For reference please visit original document : https://github.com/whimian/SVM-Image-Classification/blob/master/Image%20Classification%20using%20scikit-learn.ipynb
